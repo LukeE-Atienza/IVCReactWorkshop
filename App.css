@@ -87,15 +87,6 @@ body {
   margin-bottom: 2rem;
 }
 
-.hero-image {
-  max-width: 450px;
-  width: 100%;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 20px 40px rgba(0,0,0,0.05);
-  border: 1px solid var(--border);
-}
-
 /* Buttons */
 button {
   background-color: var(--ivory-mist);
